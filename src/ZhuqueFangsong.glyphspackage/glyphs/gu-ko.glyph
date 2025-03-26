@@ -1,0 +1,11 @@
+{
+export = 0;
+glyphname = "gu-ko";
+layers = (
+{
+layerId = m01;
+width = 960;
+}
+);
+unicode = 44396;
+}

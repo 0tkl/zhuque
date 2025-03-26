@@ -4,7 +4,7 @@ glyphname = "mi-ko";
 layers = (
 {
 layerId = m01;
-width = 960;
+width = 1000;
 }
 );
 unicode = 48120;

@@ -1970,6 +1970,10 @@ name = "CJK Guide";
 value = "han:73,76";
 },
 {
+name = "CJK Guide";
+value = "hangul:60,58";
+},
+{
 name = "Default Layer Width";
 value = "hangul:960";
 }
