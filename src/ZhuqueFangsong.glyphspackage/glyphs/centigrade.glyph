@@ -1,0 +1,21 @@
+{
+color = 9;
+glyphname = centigrade;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+pos = (46,0);
+ref = degree;
+},
+{
+pos = (329,0);
+ref = C;
+}
+);
+width = 1000;
+}
+);
+unicode = 8451;
+}
