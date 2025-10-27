@@ -10,15 +10,23 @@ Zhuque is currently in its early stages of development as a “technical preview
 
 ## Let users define
 
-We welcome suggestions for the future development of Zhuque, and designed a [questionnaire (in Chinese)](https://www.wjx.cn/vm/QQgadJY.aspx) to gather user feedback openly.
+We welcome suggestions for the future development of Zhuque, and designed a questionnaire to gather user feedback openly.
 
 This has only been made possible with TrionesType’s new technology. TrionesType’s designers integrate the AI-powered tools into their design process, and thus, we are enabled to achieve this huge CJK project with limited resources while allowing for iterative design on a large charset.
 
-Despite the technological advancement, our ambitious goals of the Zhuque project result in an overwhelming workload. To ensure sustainable and efficient development of Zhuque, we are seeking support, and hope to make quicker strides towards achieving our ambition.
+In our testing phase we ran a public questionnaire: 335 people participated and 72 responses were judged professionally useful. The [survey results](survey_result-zh.md) helped inform glyph design choices and planning for future work.
+
+Despite the technological advancement, our ambitious goals of the Zhuque project result in an overwhelming workload. To ensure sustainable and efficient development of Zhuque, we are seeking support and hope to make quicker strides towards our ambition.
 
 ## Downloading the fonts
 
 We will update the download links on the [Releases](https://github.com/TrionesType/zhuque/releases) page.
+
+## Latest information
+
+TrionesType website: https://www.trionestype.com
+
+Follow us on X: [@TrionesType](https://twitter.com/TrionesType)
 
 ## Design story
 
@@ -35,22 +43,20 @@ Zhuque is based on “Nansong” but reduces stroke contrast while retaining the
 
 ## License
 
-© 2023 [JadeFoci](https://jadefoci.com/)，released under [SIL Open Font License 1.1](http://scripts.sil.org/OFL).
+© 2025 [TrionesType](https://trionestype.com/), released under [SIL Open Font License 1.1](http://scripts.sil.org/OFL).
 
-Zhuque currently extrapolates the [Alegreya](https://github.com/huertatipografica/Alegreya) masters for matching Latin, Cyrillic and Greek. Alegreya is also released under SIL Open Font License 1.1.
+You may:
 
-> Alegreya is a typeface originally intended for literature. Among its crowning characteristics, it conveys a dynamic and varied rhythm which facilitates the reading of long texts. Also, it provides freshness to the page while referring to the calligraphic letter, not as a literal interpretation, but rather in a contemporary typographic language.
->
-> The italic has just as much care and attention to detail in the design as the roman. The bold weights are strong, and the Black weights are really experimental for the genre. There is also a Small Caps sister family.
->
-> Not only does Alegreya provide great performance, but also achieves a strong and harmonious text by means of elements designed in an atmosphere of diversity.
-> The Alegreya type system is a "super family", originally intended for literature, and includes serif and sans serif sister families.
->
-> It supports expert latin, greek and cyrillic character sets and provides advanced typography OpenType features such as small caps, dynamic ligatures and fractions, four set of figures, super and subscript characters, ordinals, localized accent forms for spanish, catalan, guaraní, dutch, turkish, romanian, serbian among others.
->
-> Alegreya was chosen at the ATypI Letter2 competition in September 2011, and one of the top 14 text type systems. It was also selected in the 2nd Bienal Iberoamericana de Diseño, competition held in Madrid in 2010 and Tipos Latinos.
->
-> Designed by Juan Pablo del Peral for [Huerta Tipográfica](http://www.huertatipografica.com/).
+- Use the fonts commercially for free (print, logo, software, web, video, embedding in software).
+- Copy and redistribute the fonts.
+
+You may not:
+
+- Sell the fonts by themselves (original or modified versions).
+
+License details follow the [SIL Open Font License 1.1 English text](http://scripts.sil.org/OFL).
+
+Zhuque currently employs [Alegreya](https://github.com/huertatipografica/Alegreya) for Latin, Cyrillic and Greek glyphs; Alegreya is also released under SIL OFL 1.1.
 
 ## Zhuque Team
 
@@ -59,6 +65,8 @@ Zhuque currently extrapolates the [Alegreya](https://github.com/huertatipografic
 **Kana and punctuations:** [HAN Yeongsy](https://github.com/yeongsy)
 
 **Technical support:** [YIN Yehang](https://github.com/celestialphineas), [YU Junyi](https://github.com/Lottin0113)
+
+**Production:** [YIN Yehang](https://github.com/celestialphineas), [YU Junyi](https://github.com/Lottin0113), [LI Jianqiao](https://github.com/RUBiKLi09)
 
 ## About TrionesType
 
