@@ -14,6 +14,8 @@
 
 ## 下载
 
+AtomGit 镜像仓库：https://atomgit.com/TrionesType/zhuque
+
 版本与下载链接将会更新在 [Releases 发布页](https://github.com/TrionesType/zhuque/releases)。
 
 ## 最新信息
